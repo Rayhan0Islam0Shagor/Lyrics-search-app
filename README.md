@@ -17,3 +17,4 @@ Here people can search any Song
 - Work Alone
 - Responsive
 - SearchAble
+- Redux
