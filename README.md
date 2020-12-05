@@ -6,6 +6,9 @@ In the project directory, you can run:
 
 Here people can search any Song
 
+<img src="https://i.ibb.co/gVHb6rj/screencapture-script-lyrics-app-netlify-app-2020-12-06-01-59-12.png" alt="..." />
+
+
 ## Technology Used
 
 - React
